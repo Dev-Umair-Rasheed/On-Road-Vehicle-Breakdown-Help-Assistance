@@ -30,7 +30,10 @@ Helper dashboard:
 5.The helper can see the information of his/her approached customer.
 6.The helper can update the task status once he/she helped the customer.
 
-<img src="![IMG-20240716-WA0010](https://github.com/user-attachments/assets/0001e614-41dc-49fc-9f2e-17a1a1315ff6)
-" width="300dp">  <img src="https://user-images.githubusercontent.com/108947868/226419841-720e8697-716b-4937-b688-f18336565e3d.jpg" width="300dp">  <img src="https://user-images.githubusercontent.com/108947868/226419860-6f01e4f3-9b52-448a-b3a8-fa92b01b7698.jpg" width="300dp">
-<img src="https://user-images.githubusercontent.com/108947868/226419865-00371e9a-2672-41da-b55d-cd3c8d845c5e.jpg" width="300dp">  <img src="https://user-images.githubusercontent.com/108947868/226419870-5b752925-4c27-4ab0-b005-fe8c36fd7ca7.jpg" width="300dp">  <img src="https://user-images.githubusercontent.com/108947868/226419876-b0df5271-56a3-402d-b5fd-57f6ae681b7b.jpg" width="300dp">
+<img src="https://github.com/user-attachments/assets/0001e614-41dc-49fc-9f2e-17a1a1315ff6" width="300dp">  
+<img src="https://user-images.githubusercontent.com/108947868/226419841-720e8697-716b-4937-b688-f18336565e3d.jpg" width="300dp">  
+<img src="https://user-images.githubusercontent.com/108947868/226419860-6f01e4f3-9b52-448a-b3a8-fa92b01b7698.jpg" width="300dp">
+<img src="https://user-images.githubusercontent.com/108947868/226419865-00371e9a-2672-41da-b55d-cd3c8d845c5e.jpg" width="300dp">  
+<img src="https://user-images.githubusercontent.com/108947868/226419870-5b752925-4c27-4ab0-b005-fe8c36fd7ca7.jpg" width="300dp">  
+<img src="https://user-images.githubusercontent.com/108947868/226419876-b0df5271-56a3-402d-b5fd-57f6ae681b7b.jpg" width="300dp">
 <img src="https://user-images.githubusercontent.com/108947868/226419896-c05f1dbc-fe5d-43ce-8c6e-becfb930f6d6.jpg" width="300dp">
