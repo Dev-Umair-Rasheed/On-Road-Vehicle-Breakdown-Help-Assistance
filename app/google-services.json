@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "140662454438",
+    "firebase_url": "https://on-road-help-assistance-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "on-road-help-assistance",
+    "storage_bucket": "on-road-help-assistance.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:140662454438:android:01c492479bdacf64691c67",
+        "android_client_info": {
+          "package_name": "com.example.helpassistance"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJukXeVGNopNeN7iCYPparIXOo_mXGW9o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

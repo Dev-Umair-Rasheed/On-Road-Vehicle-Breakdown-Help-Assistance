@@ -1,0 +1,28 @@
+pluginManagement {
+    buildscript {
+        repositories {
+            mavenCentral()
+            maven {
+                url = uri("https://storage.googleapis.com/r8-releases/raw")
+            }
+        }
+        dependencies {
+            classpath 'com.android.tools:r8:8.3.37'
+            classpath('com.google.guava:guava:32.0.1-jre')  // <-- THIS IS REQUIRED UNTIL R8 3.2.4-dev
+        }
+    }
+    repositories {
+        google()
+        mavenCentral()
+        gradlePluginPortal()
+    }
+    dependencyResolutionManagement {
+        repositoriesMode.set(RepositoriesMode.FAIL_ON_PROJECT_REPOS)
+        repositories {
+            google()
+            mavenCentral()
+        }
+    }
+}
+rootProject.name = "Help Assistance"
+include ':app'
